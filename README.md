@@ -1,4 +1,10 @@
-## Hi there 👋
+## 
+
+Trying to figure out my place on the internet, developing games at [Studio Bravarda](https://studiobravarda.com/) and open to new opportunities.
+
+Over the past 8 years, I've been gathering experience in the indie game space, successfully launching games on Steam, Switch and Google Play Store. I intimately understand the indie development cycle and have extensive experience working on games from the first prototype to completion within small remote teams and tight deadlines.
+
+In roles ranging from Creative Director to Engineering Team Lead, I've honed my expertise in gameplay programming. Whether crafting weapons, designing enemies, or optimizing inventory systems, gameplay remains my focus. I just love developing systems that transport the player to a new reality.
 
 <!--
 **nickleme/nickleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
