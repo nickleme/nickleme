@@ -1,22 +1,6 @@
-## 
+## Nick Leme
 
-Trying to figure out my place on the internet, developing games at [Studio Bravarda](https://studiobravarda.com/) and open to new opportunities.
+- Co-founder (now associate) of Studio Bravarda, where I directed/developed Extremely Powerful Capybaras, developed Sky Caravan and shipped them to multiple platforms.
+- Winner of Best Multiplayer Game at Gamescom Latam 2024 and nominated for several industry awards, such as Most Innovative Newcomer, Best Narrative and Best Brazilian Game.
+- Proficient in Unity/C# with over 8 years of experience using the engine to ship 2 PC/Console Games and 4+ Mobile Games.
 
-Over the past 8 years, I've been gathering experience in the indie game space, successfully launching games on Steam, Switch and Google Play Store. I intimately understand the indie development cycle and have extensive experience working on games from the first prototype to completion within small remote teams and tight deadlines.
-
-In roles ranging from Creative Director to Engineering Team Lead, I've honed my expertise in gameplay programming. Whether crafting weapons, designing enemies, or optimizing inventory systems, gameplay remains my focus. I just love developing systems that transport the player to a new reality.
-
-<!--
-**nickleme/nickleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
